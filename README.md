@@ -17,14 +17,14 @@ This project explores how adversarial attacks affect the performance of image cl
 
 ### 📁 `images/`
 -   Sample of the original input image  
-- Image after FGSM attack  
-- Image after PGD attack  
-- Image with patch-based adversarial attack  
+- Images after FGSM attack  
+- Images after PGD attack  
+- Images with patch-based adversarial attack  
 
 ### 📁 `Plots/`
 - `1.png` – ResNet-34 Accuracy by Attack  
-- `2.png` – DenseNet-121 Accuracy by Attack  
-- `3.png` – Top-1 Accuracy Drop Comparison  
+- `2.png` – Top-1 Accuracy Drop Comparison
+- `3.png` – DenseNet-121 Accuracy by Attack 
 
 ---
 
