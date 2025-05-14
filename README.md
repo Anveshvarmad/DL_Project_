@@ -42,33 +42,6 @@ This folder includes:
     - Attack Type (FGSM, PGD, Patch)
     - Original Class Labels
 
-Sample Image References:
-------------------------
-
-Original Image:
-  Path: images/original_sample.png
-
-FGSM Perturbation:
-  Path: images/fgsm_sample.png
-
-PGD Perturbation:
-  Path: images/pgd_sample.png
-
-Patch Attack:
-  Path: images/patch_attack_sample.png
-
-Model Performance Visualizations:
----------------------------------
-
-1. ResNet-34 Accuracy by Attack:
-   Path: Plots/1.png
-
-2. DenseNet-121 Accuracy by Attack:
-   Path: Plots/2.png
-
-3. Relative Top-1 Accuracy Drop by Attack:
-   Path: Plots/3.png
-
 Instructions:
 -------------
 1. Open the file `code/Project3Notebook.ipynb` in Jupyter Notebook or JupyterLab.
