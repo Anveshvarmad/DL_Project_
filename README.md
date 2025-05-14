@@ -20,15 +20,14 @@ Repository Contents:
          • Summary and conclusions at the end.
 
 2. images/
-   ├── original_sample.png             → Sample of original unaltered image
    ├── fgsm_sample.png                → FGSM-perturbed adversarial example
    ├── pgd_sample.png                 → PGD-perturbed adversarial example
    └── patch_attack_sample.png        → Example image with a visible patch-based attack
 
 3. Plots/
    ├── 1.png                          → ResNet-34 Accuracy by Attack
-   ├── 2.png                          → DenseNet-121 Accuracy by Attack
-   └── 3.png                          → Relative Top-1 Accuracy Drop by Attack
+   ├── 2.png                          → Relative Top-1 Accuracy Drop by Attack
+   └── 3.png                          → DenseNet-121 Accuracy by Attack
 
 Adversarial Test Set:
 ---------------------
