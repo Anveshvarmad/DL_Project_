@@ -16,10 +16,13 @@ This project explores how adversarial attacks affect the performance of image cl
   - Final summary and conclusions
 
 ### 📁 `images/`
+Each Image in images has following contents 
 -   Sample of the original input image  
 - Images after FGSM attack  
 - Images after PGD attack  
-- Images with patch-based adversarial attack  
+- Images with patch-based adversarial attack
+- Confidence for the prediction
+- Noise
 
 ### 📁 `Plots/`
 - `1.png` – ResNet-34 Accuracy by Attack  
